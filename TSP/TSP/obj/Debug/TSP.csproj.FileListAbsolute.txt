@@ -1,0 +1,8 @@
+C:\Users\bichu\OneDrive\Рабочий стол\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\bichu\OneDrive\Рабочий стол\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\bichu\OneDrive\Рабочий стол\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\bichu\OneDrive\Рабочий стол\TSP\TSP\obj\Debug\TSP.csproj.AssemblyReference.cache
+C:\Users\bichu\OneDrive\Рабочий стол\TSP\TSP\obj\Debug\TSP.csproj.SuggestedBindingRedirects.cache
+C:\Users\bichu\OneDrive\Рабочий стол\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\bichu\OneDrive\Рабочий стол\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\bichu\OneDrive\Рабочий стол\TSP\TSP\obj\Debug\TSP.pdb
